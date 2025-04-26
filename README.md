@@ -1,6 +1,6 @@
 # 🟡 Pac-Man 3D Game
 
-Pac-Man 3D Game is a third person 3D adventure where the player must collect treasure boxes, avoid guards, and use energy bars to turn the tide. Inspired by the classic Pac-Man, the game combines action, strategy, and quick decision-making. For this game, I used C# and Unity. Here is some information on the game:
+Pac-Man 3D Game is a third person 3D adventure where the player must collect treasure boxes, avoid guards, and use energy bars to turn the tide. Inspired by the classic Pac-Man, the game combines action, strategy, and quick decision-making. For this game, I used C# and Unity. I created this project in Fall 2023. Here is some information on the game:
 
 ## 🧍‍♂️ Avatar and Camera
 
