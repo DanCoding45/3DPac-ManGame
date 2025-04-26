@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Project 2 - CSC 4820.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
